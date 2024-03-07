@@ -88,7 +88,8 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
-    - _Blend_Opacity: 0.85
+    - _Blend_Opacity: 0.739
+    - _Blurriness: 0.406
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -108,9 +109,10 @@ Material:
     - _Noise_Scale: 500
     - _Noise_Scale_1: 1855.3
     - _OcclusionStrength: 1
-    - _Outline_Noise_Scale: 150
+    - _Outline_Noise_Scale: 250
     - _Outline_Noise_Speed: 2.5
-    - _Outline_Width: 25
+    - _Outline_Sharpen: 0.5
+    - _Outline_Width: 10
     - _Parallax: 0.005
     - _QueueControl: 1
     - _QueueOffset: 0
