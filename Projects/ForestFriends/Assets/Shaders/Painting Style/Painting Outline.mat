@@ -111,7 +111,7 @@ Material:
     - _OcclusionStrength: 1
     - _Outline_Noise_Scale: 250
     - _Outline_Noise_Speed: 2.5
-    - _Outline_Sharpen: 0.5
+    - _Outline_Sharpen: 0
     - _Outline_Width: 10
     - _Parallax: 0.005
     - _QueueControl: 1
