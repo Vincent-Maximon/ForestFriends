@@ -113,6 +113,7 @@ Material:
     - _Alpha: 0.25
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _Alpha_Clipping: 0.52
     - _Blend: 0
     - _Blend_Opacity: 0.1
     - _BumpScale: 1
